@@ -1,0 +1,26 @@
+<annotation>
+	<folder>crossgates_dataset</folder>
+	<filename>ped16.jpg</filename>
+	<path>/Users/youssefkallel/Downloads/crossgates_dataset/ped16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>519</xmin>
+			<ymin>451</ymin>
+			<xmax>590</xmax>
+			<ymax>579</ymax>
+		</bndbox>
+	</object>
+</annotation>
