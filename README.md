@@ -4,7 +4,7 @@
 
 ## How to Run
 
-Run [this Colab Notebook](https://colab.research.google.com/drive/1vN6yP1eUQxKrG3fF9e0M1fdgfeuqKCYF?usp=sharing).
+Run [this Colab Notebook](https://colab.research.google.com/github/y-kallel/object-detection/blob/master/Object_Detection_with_Data_Augmentation.ipynb).
 
 To use a custom dataset for object detection:
 
@@ -33,7 +33,7 @@ Resized images locate in `./data/images/`
 - Commit and push your annotated images and xml files (`./data/images/train` and `./data/images/test`) to your forked repository.
 
 
-### Step 2: Open [Colab notebook](https://colab.research.google.com/drive/1vN6yP1eUQxKrG3fF9e0M1fdgfeuqKCYF?usp=sharing)
+### Step 2: Open [Colab notebook](https://colab.research.google.com/github/y-kallel/object-detection/blob/master/Object_Detection_with_Data_Augmentation.ipynb)
 - Replace the repository's url to yours and run it.
 
 ### Continue to follow the steps documented on the colab to train the custom model, create a frozen inference graph, and optionally convert it to a TFLite model to run on the edge
